@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="guideline">20dp</dimen>
+    <dimen name="text_size1">24sp</dimen>
+    <dimen name="text_size2">20sp</dimen>
+
+    <dimen name="global_margin">30dp</dimen>
+
+    # Table Spacing
+    <dimen name="btw_cols">8dp</dimen>
+    <dimen name="btw_rows">20dp</dimen>
+</resources>
